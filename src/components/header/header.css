@@ -1,0 +1,15 @@
+.tabSelected.MuiListItem-root.Mui-selected {
+  background-color: #d1dffa;
+}
+
+.MuiListItem-root.MuiListItem-root.Mui-selected:hover {
+  background-color: #d1dffa;
+}
+
+.listHeader {
+  margin-bottom: 40px;
+}
+
+.listHeader.MuiListSubheader-root {
+  color: #5e90ed;
+}
